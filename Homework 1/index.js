@@ -1,0 +1,13 @@
+alert("Hi!");
+const gender = "male";
+const first_name = "Mikhail";
+const second_name = "Kalmykov";
+var age = 17;
+var height = 175;
+var weight = 80;
+console.warn("First Name: " + first_name);
+console.warn("Second Name: " + second_name);
+console.error("Gender: " + gender);
+console.log("Age: " + age);
+console.log("Height: " + height);
+console.log("weight: " + weight);
